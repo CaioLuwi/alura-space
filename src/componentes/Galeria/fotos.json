@@ -1,0 +1,102 @@
+[
+    {
+      "titulo": "Nome da foto",
+      "creditos": "Alura Space",
+      "imagem": "Assets/imagens/galeria/foto-1.png",
+      "path": "/assets/imagens/icones/home-ativo.png",
+      "alt": "Ícone de uma casa",
+      "tag": "Nebulosas",
+      "link": "Inicío",
+      "id": 1
+    },
+    {
+      "titulo": "Nome da foto",
+      "creditos": "Alura Space",
+      "imagem": "Assets/imagens/galeria/foto-2.png",
+      "path": "/assets/imagens/icones/mais-vistas-inativo.png",
+      "alt": "ícone de um olho",
+      "tag": "Galáxias",
+      "link": "Mais vistas",
+      "id": 2
+    },
+    {
+      "titulo": "Nome da foto",
+      "creditos": "Alura Space",
+      "imagem": "Assets/imagens/galeria/foto-3.png",
+      "path": "/assets/imagens/icones/mais-curtidas-inativo.png",
+      "alt": "ícone de uma mão com o polegar opositor levantado",
+      "tag": "Lua",
+      "link": "Mais curtidas",
+      "id": 3
+    },
+    {
+      "titulo": "Nome da foto",
+      "creditos": "Alura Space",
+      "imagem": "Assets/imagens/galeria/foto-4.png",
+      "path": "/assets/imagens/icones/novas-inativo.png",
+      "alt": "icone de uma estrelinha brilhante",
+      "tag": "Galáxias",
+      "link": "Novas",
+      "id": 4
+    },
+    {
+      "titulo": "Nome da foto",
+      "creditos": "Alura Space",
+      "imagem": "Assets/imagens/galeria/foto-5.png",
+      "path": "/assets/imagens/icones/surpreenda-me-inativo.png",
+      "alt": "ícone de uma lâmpada",
+      "tag": "Nebulosas",
+      "link": "Surpreenda-me",
+      "id": 5
+    },
+    {
+        "titulo": "Nome da foto",
+        "creditos": "Alura Space",
+        "imagem": "Assets/imagens/galeria/foto-6.png",
+        "path": "/assets/imagens/icones/surpreenda-me-inativo.png",
+        "alt": "ícone de uma lâmpada",
+        "link": "Surpreenda-me",
+        "tag": "Estrelas",
+        "id": 6
+    },
+    {
+        "titulo": "Nome da foto",
+        "creditos": "Alura Space",
+        "imagem": "Assets/imagens/galeria/foto-7.png",
+        "path": "/assets/imagens/icones/mais-curtidas-inativo.png",
+        "alt": "ícone de uma mão com o polegar opositor levantado",
+        "tag": "Galáxias",
+        "link": "Mais curtidas",
+        "id": 7
+      },
+      {
+        "titulo": "Nome da foto",
+        "creditos": "Alura Space",
+        "imagem": "Assets/imagens/galeria/foto-8.png",
+        "path": "/assets/imagens/icones/novas-inativo.png",
+        "alt": "icone de uma estrelinha brilhante",
+        "tag": "Nebulosas",
+        "link": "Novas",
+        "id": 8
+      },
+      {
+        "titulo": "Nome da foto",
+        "creditos": "Alura Space",
+        "imagem": "Assets/imagens/galeria/foto-9.png",
+        "path": "/assets/imagens/icones/surpreenda-me-inativo.png",
+        "alt": "ícone de uma lâmpada",
+        "tag": "Estrelas",
+        "link": "Surpreenda-me",
+        "id": 9
+      },
+      {
+          "titulo": "Nome da foto",
+          "creditos": "Alura Space",
+          "imagem": "Assets/imagens/galeria/foto-10.png",
+          "path": "/assets/imagens/icones/surpreenda-me-inativo.png",
+          "alt": "ícone de uma lâmpada",
+          "tag": "Estrelas",
+          "link": "Surpreenda-me",
+          "id": 10
+      }
+]
